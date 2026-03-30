@@ -46,7 +46,7 @@ header{
     cursor: pointer;
 }
 
-.sec-head{
+.Other-Header{
     display: flex;
     position: relative; 
     margin-left:200px ;
